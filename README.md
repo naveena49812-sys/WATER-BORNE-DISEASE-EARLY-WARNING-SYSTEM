@@ -1,86 +1,92 @@
 # 💧 Water-Borne Diseases Early Warning System
 
-## 📌 Project Overview
+---
 
-The Water-Borne Diseases Early Warning System is an AI-powered web application that monitors water quality and predicts potential disease outbreaks. The system analyzes water parameters such as pH, turbidity, and contamination levels to provide early warning alerts, helping communities and authorities take preventive actions.
+## Project Overview
+
+Water-borne diseases are a major public health concern caused by contaminated water sources. This project focuses on developing an intelligent early warning system that monitors water quality parameters and predicts potential disease outbreaks using Artificial Intelligence (AI) and Machine Learning (ML). The system provides real-time alerts to authorities and communities, enabling timely preventive measures and reducing the spread of diseases.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
-Water-borne diseases such as cholera, typhoid, and dysentery continue to affect millions of people due to contaminated water sources. Traditional monitoring methods often identify outbreaks only after they occur. Therefore, an intelligent early warning system is needed to monitor water quality in real time and provide timely alerts to reduce the spread of diseases.
+Millions of people suffer from water-borne diseases such as cholera, typhoid, and dysentery due to poor water quality and delayed outbreak detection. Traditional monitoring methods are often reactive rather than preventive. This project addresses the challenge by using AI and data analytics to predict disease risks and generate early warning alerts.
 
 ---
 
-## 🎯 Project Objectives
+## Objectives
 
 * Monitor water quality parameters in real time.
-* Predict possible disease outbreaks using AI and data analysis.
+* Predict possible disease outbreaks using AI and ML techniques.
 * Generate early warning alerts for high-risk areas.
-* Help authorities take preventive measures quickly.
-* Improve public health and reduce disease spread.
+* Support health authorities in taking preventive actions.
+* Reduce the spread of water-borne diseases and improve public health.
 
 ---
 
-## 🚀 Features
+## Frontend Environment Setup
 
-* 💧 Water Quality Monitoring
-* 🤖 AI-Based Disease Prediction
-* 📊 Risk Analysis Dashboard
-* 🚨 Early Warning Alerts
-* 📍 High-Risk Area Identification
-* 📈 Real-Time Monitoring Statistics
-
----
-
-## 🛠️ Technologies Used
-
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Python / Flask
-* **Database:** MySQL
-* **Machine Learning:** Scikit-learn
-* **Version Control:** Git & GitHub
+* HTML5
+* CSS3
+* JavaScript
+* Visual Studio Code
+* Google Chrome Browser
 
 ---
 
-## 📂 Modules
+## Backend Environment Setup
+
+* Python 3.x
+* Flask Framework
+* MySQL Database
+* Scikit-learn Library
+* XAMPP / MySQL Server
+
+---
+
+## Project Modules
 
 1. User Management Module
-2. Water Quality Data Collection Module
+2. Water Quality Monitoring Module
 3. Disease Prediction Module
 4. Alert Generation Module
-5. Reporting and Dashboard Module
+5. Dashboard and Reporting Module
 
 ---
 
-## 🗄️ Database Tables
+## Database Tables
 
 * Users
-* Water_Quality_Data
 * Monitoring_Stations
+* Water_Quality_Data
 * Disease_Predictions
 * Alerts
 * Reports
 
 ---
 
-## 📸 Screenshots
+## Technologies Used
 
-Add your project screenshots here.
+* Frontend: HTML, CSS, JavaScript
+* Backend: Python (Flask)
+* Database: MySQL
+* Machine Learning: Scikit-learn
+* Version Control: Git and GitHub
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * IoT Sensor Integration
-* Mobile Application Support
+* Mobile Application Development
 * SMS and Email Notifications
 * GIS-Based Risk Mapping
 * Advanced Machine Learning Models
 
 ---
 
-## 👨‍💻 Developed By
+## Developed By
 
 **Naveena Naatudurai**
-AI & Data Science Mini Project – 2026
+Department of Artificial Intelligence and Data Science
+Mini Project – 2026
